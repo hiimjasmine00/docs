@@ -39,7 +39,7 @@ jobs:
       - name: Download Flash
         uses: robinraju/release-downloader@v1.5
         with:
-          repository: geode-sdk/flash
+          repository: hiimjasmine00/flash
           latest: true
           fileName: "flash.exe"
           tarBall: false
